@@ -47,7 +47,9 @@ Our sessions are designed to help you maintain optimal health with minimal effor
 ✍️ **Eks2 Reflections**  
 Created & Curated by  
 **Muhammad Naveed Ishaque (Eks2)**  
-*Content Creator | AI Writer | Narrative Simplifier | Certified Fitness Trainer*  
+✍️ Muhammad Naveed Ishaque (Eks2)  
+**Content Creator | AI Writer | Narrative Simplifier | Certified Fitness Trainer**
+
 
 🕊️ **Siraat AI Academy**  
 *"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
