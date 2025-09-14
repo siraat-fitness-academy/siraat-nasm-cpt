@@ -50,3 +50,20 @@ By the end of this course, you will be able to:
 ---
 
 ✨ *This course lays the foundation for a meaningful career in fitness training, combining scientific knowledge with practical application to empower individuals on their journey to better health.* ✨
+
+
+
+---
+
+✍️ Eks2 Reflections  
+Created & Curated by  
+
+**Muhammad Naveed Ishaque (Eks2)**  
+Content Creator | AI Writer | Narrative Simplifier | Certified Fitness Trainer  
+
+🕊️ Siraat AI Academy  
+"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."  
+
+💪 A proud initiative of **Siraat Fitness Academy**
+
+
