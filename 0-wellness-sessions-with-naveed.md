@@ -46,7 +46,6 @@ Our sessions are designed to help you maintain optimal health with minimal effor
 
 ✍️ **Eks2 Reflections**  
 Created & Curated by  
-**Muhammad Naveed Ishaque (Eks2)**  
 ✍️ Muhammad Naveed Ishaque (Eks2)  
 **Content Creator | AI Writer | Narrative Simplifier | Certified Fitness Trainer**
 
