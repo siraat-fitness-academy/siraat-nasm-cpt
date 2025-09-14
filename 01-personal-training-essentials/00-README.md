@@ -1,7 +1,7 @@
 # 📘 Personal Training Essentials — Course Overview
 
-This course provides the **foundation of personal fitness training** and prepares learners for the role of a professional trainer.  
-It is structured in 5 modules that gradually build knowledge, skills, and confidence to guide clients towards healthier lifestyles.
+This course provides the foundation of personal fitness training and prepares learners for the role of a professional trainer.  
+It is organized into a series of progressive sections that gradually build knowledge, skills, and confidence to guide clients towards healthier lifestyles.
 
 ---
 
