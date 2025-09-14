@@ -52,3 +52,6 @@ Created & Curated by
 🕊️ **Siraat AI Academy**  
 *"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
 
+💪 A proud initiative of **Siraat Fitness Academy**
+
+
