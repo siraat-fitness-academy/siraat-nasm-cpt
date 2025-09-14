@@ -82,6 +82,8 @@ A fitness professional must understand these **modern enemies**:
 
 Understanding these essential terms will give you the power to **decode health risks** and guide lives toward balance and vitality.  
 
+📏 **BMI (Body Mass Index)** → A simple calculation using height and weight that indicates whether a person is underweight, normal, overweight, or obese.  
+
 ---
 
 ## ⚖️ **Obesity**
