@@ -1,6 +1,7 @@
 # 🌟 Naveed Wellness Sessions 🌟
 
-**Maximum Health at Minimum Effort — Only with Naveed!**
+**Maximum Health at Minimum Effort — Only with Naveed!**  
+*After just a few sessions, experience noticeable improvements in energy, focus, and overall productivity — achieve more in less time, without feeling tired.*
 
 ---
 
