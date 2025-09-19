@@ -1,5 +1,3 @@
-# Creating a markdown file with structured notes for NIH Bachelor program
-
 # 📚 Bachelor’s Degree in Training, Health and Performance (NIH, Norway)
 
 🔗 Official Page: [nih.no – Bachelor i trening, helse og prestasjon](https://www.nih.no/studier/programmer/bachelor-i-trening-helse-og-prestasjon/index.html)
@@ -76,10 +74,3 @@ Partner institutions include:
 - **FAH Path:** Health and Exercise Physiologist → work in wellness, rehab, hospitals, testing labs.  
 - **TP Path:** Performance Coach/Trainer → professional sports, youth coaching, physical trainer roles, fitness industry.  
 
-
-# Save file
-file_path = "/mnt/data/nih_bachelor_training_health_performance.md"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(notes_content)
-
-file_path
