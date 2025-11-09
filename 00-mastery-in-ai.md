@@ -81,3 +81,7 @@ through **AI, Cloud and Fitness Science.**
 > *"Where technology builds the world — and discipline builds the self."*
 
 ---
+
+> Building intelligence in AI systems, resilience in cloud infrastructure, creativity in mobile design, and discipline in the self. 💫
+---
+
