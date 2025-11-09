@@ -13,10 +13,13 @@ a journey where **AI meets Cloud**, and **innovation meets purpose**.
 1️⃣ **Java Programming & Data Structures (Duke University)** – building the logical core and computational mindset.  
 2️⃣ **Software Design & Architecture (University of Alberta)** – shaping resilient, modular system blueprints.  
 3️⃣ **Building with OpenAI API (Packt)** – engineering intelligent automation and prompt-driven AI tools.  
-4️⃣ **Google Cloud Architect & Security** – constructing scalable, secure digital infrastructure in the cloud.  
-5️⃣ **Meta Android UI Development** – creating fluid, human-centered mobile interfaces powered by Kotlin & Jetpack.  
-6️⃣ **Google Project Management & CompTIA Security+** – mastering leadership, process, and protection in every mission.  
-7️⃣ **NASM Fitness Training** – cultivating strength, focus, and discipline — the astronaut within.  
+4️⃣ **Google Cloud Architect Certification** – mastering cloud architecture, scalability, and infrastructure design.  
+5️⃣ **Google Cloud Network Engineer Certification** – connecting systems through secure and efficient network design.  
+6️⃣ **Google Cloud Security Certification** – defending architectures with zero-trust and identity-based controls.  
+7️⃣ **Meta Android UI Development (Meta)** – creating fluid, human-centered mobile interfaces powered by Kotlin & Jetpack Compose.  
+8️⃣ **Google Project Management Certification** – planning, executing, and delivering complex digital missions.  
+9️⃣ **CompTIA Security+ Certification** – ensuring cybersecurity resilience across systems and users.  
+🔟 **NASM Fitness Training Certification** – cultivating strength, focus, and discipline — the astronaut within.  
 
 ---
 
