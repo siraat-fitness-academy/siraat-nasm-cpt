@@ -18,7 +18,7 @@
 
 ---
 
-### 3️⃣ Google Cloud Security / AWS Security Specialty  
+### 3️⃣ Google Cloud Security   
 🔒 *Identity & Access Management • Cloud Compliance • Zero Trust Architecture*  
 > Secure large-scale enterprise environments and implement cloud defenses.
 
