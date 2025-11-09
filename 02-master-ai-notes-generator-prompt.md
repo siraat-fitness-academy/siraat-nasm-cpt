@@ -1,4 +1,4 @@
-#🧠 MASTER AI NOTES GENERATOR PROMPT (Template)
+# 🧠 MASTER AI NOTES GENERATOR PROMPT (Template)
 
 ---
 
