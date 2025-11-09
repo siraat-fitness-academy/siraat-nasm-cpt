@@ -18,17 +18,17 @@ This lecture introduces the core vision of the course — helping complete begin
 ---
 
 ### 2. Course Path Overview
-#### **Week 1: Structuring and Styling Web Pages**
+#### **Structuring and Styling Web Pages**
 - Learners create their first web page using **HTML** for structure and **CSS** for design.  
 - Emphasis on how HTML defines the framework while CSS controls presentation, allowing fast and flexible styling.  
 - *Outcome:* A personalized and visually appealing web page that reflects understanding of web fundamentals.
 
-#### **Week 2: Programming Logic through JavaScript**
+#### **Programming Logic through JavaScript**
 - Students tackle the classic **“green screen”** challenge, manipulating images through JavaScript.  
 - This week deepens understanding of **variables**, **loops**, **conditions**, and **functions**, alongside exposure to image-processing libraries.  
 - *Outcome:* Hands-on problem-solving with visual results — making abstract code concepts tangible.
 
-#### **Week 3: Integrating HTML, CSS, and JavaScript**
+#### **Integrating HTML, CSS, and JavaScript**
 - All concepts come together to build **interactive web pages** that respond to user actions.  
 - Final project: create a tool that allows users to upload photos and apply custom filters built by the learner.  
 - *Outcome:* A complete, interactive web experience demonstrating the fusion of logic, creativity, and user-centered design.
