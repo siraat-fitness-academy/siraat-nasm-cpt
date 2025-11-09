@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Foundations of Web Creation with JavaScript, HTML, and CSS
 
 ---
